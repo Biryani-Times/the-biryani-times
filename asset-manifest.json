@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-biriyani-times/static/css/main.dfee1ecc.css",
+    "main.js": "/the-biriyani-times/static/js/main.a81112cf.js",
+    "static/js/787.3a3cefc8.chunk.js": "/the-biriyani-times/static/js/787.3a3cefc8.chunk.js",
+    "index.html": "/the-biriyani-times/index.html",
+    "main.dfee1ecc.css.map": "/the-biriyani-times/static/css/main.dfee1ecc.css.map",
+    "main.a81112cf.js.map": "/the-biriyani-times/static/js/main.a81112cf.js.map",
+    "787.3a3cefc8.chunk.js.map": "/the-biriyani-times/static/js/787.3a3cefc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfee1ecc.css",
+    "static/js/main.a81112cf.js"
+  ]
+}
